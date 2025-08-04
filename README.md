@@ -1,9 +1,30 @@
+*	1	D
+*	2	D
+*	3	B
+*	4	B
+*	5	B
+*	6	A
+*	7	A
+*	8	B
+*	9	D
+*	10	A
+*	11	B
+*	12	C
+*	13	D
+*	14	A
+*	15	B
+*	16	C
+*	17	A
+*	18	A
+*	19	B
+*	20	C
+
 Requirement 1:
 * Học viên hãy viết chương trình với yêu cầu như sau:
-* Có 3 loại loại User khác nhau:
-* Leader(Trưởng nhóm)
-* Member(Thành viên)
-* Admin(Thành viên quản trị)
+*  Có 3 loại loại User khác nhau:
+*   Leader(Trưởng nhóm)
+*   Member(Thành viên)
+*   Admin(Thành viên quản trị)
 * Tất cả các User đều có các thuộc tính chung là: id, FullName, Email, Password Và
 mỗi User có thêm các thuộc tính như sau:
 * Leader có thêm thuộc tính:
@@ -38,3 +59,5 @@ các hợp lệ của các thuộc tính
 * Kết hợp mô hình 3-tiers để xây dựng program
 * Tuần thủ các best practice
 * Không chép bài người khác (sẽ có hình thức phạt nếu bị phát hiện)
+
+
